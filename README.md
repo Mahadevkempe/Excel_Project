@@ -32,4 +32,4 @@ its sales strategy and optimize customer satisfaction:
 # 10. Product Popularity by Occasion: 
  - Identify which products are most popular during specific occasions.
 
-- Download The: Dashboard
+- Download The: [Dashboard](https://github.com/Mahadevkempe/Excel_Project/blob/main/Sales_Analysis/Dashboard.png)
