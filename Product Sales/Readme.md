@@ -49,7 +49,8 @@ and promotion effectiveness, impacting decision-making.
  # Files in This Repository:
  Product Sales  : [Dataset Link](https://github.com/Mahadevkempe/Excel_Project/blob/main/Product%20Sales/Product_sales_dataset.xlsx) 
  
- SQL Anaysis    : [Sql_queries](https://github.com/Mahadevkempe/Excel_Project/blob/main/Product%20Sales/Product_sales_queries.sql)
+ SQL Anaysis    : [Sql_queries](https://github.com/Mahadevkempe/Excel_Project/blob/main/Product%20Sales/Product_sales_queries.sql) 
+ 
  Excel Analysis : [Excel_dashboard](https://github.com/Mahadevkempe/Excel_Project/blob/main/Product%20Sales/Dashboard.png) 
  
  Project Report : [Product Sales Performance Analysis Report](https://github.com/Mahadevkempe/Excel_Project/blob/main/Product%20Sales/Product%20Sales%20Performance%20Analysis%20Report.pdf) 
