@@ -47,7 +47,7 @@ and promotion effectiveness, impacting decision-making.
 - Sales show strong seasonality
 
  # Files in This Repository:
- Product Sales  : [Dataset Link](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Product_sales_dataset.csv) 
+ Product Sales  : [Dataset Link](https://github.com/Mahadevkempe/Excel_Project/blob/main/Product%20Sales/Product_sales_dataset.xlsx) 
  
  SQL Anaysis    : [Sql_queries](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/Product_sales_queries.sql)
  
