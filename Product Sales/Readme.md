@@ -1,5 +1,5 @@
 ## Product Sales Performance Analysis using SQL and EXCEL 
-![Product_sales](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Product_Sales/download.jpg)
+![Product_sales](https://github.com/Mahadevkempe/Excel_Project/blob/main/Product%20Sales/download.jpg)
 
 ## Project Overview
 This project analyzes sales data to understand revenue trends, return behavior,
